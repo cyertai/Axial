@@ -32,14 +32,18 @@ The ship is immune to attacks of the same color. This mechanic is key to winning
 However you do more damage to enemies of the opposite color!
 
 ### Keyboard Controls
-MOVEMENT: WSAD or ARROW KEYS
-CHANGE COLOR: C
-SHOOT: SPACE BAR
+Movement: use WSAD or the arrow keys
+
+Change Affinity (light/dark): C
+
+Fire: Space Bar
 
 ### Mouse Controls
--Press the left mouse button to fire
--right button to change affinity
--move the mouse to move the player
+Press the left mouse button to fire.
+
+Press the right mouse button to change affinity
+
+Move the mouse while holding the left mouse button to move the player
 
 ### Display Items
 The Health bar displays the player's health.
