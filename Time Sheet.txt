@@ -1,0 +1,46 @@
+11/15/2011
+1 hour during lunch, built basic movement
+11/16/2011
+1 hour before english
+11/18/2011
+1 hour with saagar
+1/2 hour after making wrench for MechE
+11/19/2011
+2 hour
+11/20-21/2011
+1.5 hour - projectiles work now, game re-written with objects
+11/30/2011
+6hr -mouse controls added
+performance tweaked
+working on enemies/collision
+
+12/1/2011
+7hr
+
+enemies now shoot
+projectile / enemy / player collisions now work
+added a score keeper
+added health bar
+added sound effects
+
+12/2/2011
+4hr
+
+made menus
+added ui elements
+bug fixes, etc
+
+12/3/2011
+5.5hr
+
+12/4/2011
+4hr
+
+12/5/2011
+2 hr
+
+I was hospitalized ~3AM, slept the rest of the day.
+
+12/6/2011
+still recoving from hospital
+3hr as of 4:44 pm

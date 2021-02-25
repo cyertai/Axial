@@ -1,0 +1,32 @@
+-------------------------------------------------
+----------------AXIAL----------------------------
+-------------------------------------------------
+
+
+This is Axial, an acade shooter.
+----------Playing The Game---------
+The object of the game is to kill the enemies
+and to survive.
+
+The player has a basic super awesome not-a-portal gun
+gun which shoots plasma bolts out of the ship's two 
+onboard cannons.
+
+The ship is immune to attacks of the same color so watch out!
+
+However you do more damage to enemies of the opposite color!
+--------------CONTROLLS------------
+MOVEMENT: WSAD, ARROW KEYS
+CHANGE COLOR: C
+SHOOT: SPACE BAR
+
+MOUSE CONTROLS:
+-Press the left mouse button to fire
+-right button to change affinity
+-move the mouse to move the player
+
+------------On Screen Items--------
+The Health bar displays the player's health.
+
+The score counter keeps track of your score,
+try to get it as big as possible!
