@@ -11,8 +11,14 @@ Similarly in Axial, you have the same mechanic. Sounds do no currently work on *
 Axial requires Python 2.7 and TKinter to run.
 
 ```
+git clone https://github.com/cyertai/Axial.git
+
 apt-get install python-tk
 ```
+
+If not on Ubuntu, see below for installation instruction
+ * https://tkdocs.com/tutorial/install.html
+
 
 ## Play Axial
 
